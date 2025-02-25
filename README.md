@@ -28,14 +28,14 @@ bash
 Kopyala
 Düzenle
 python app.py
-🔥 Usage
+
+## 🔥 Usage
 Open localhost:7860 in your browser.
 Use the UI to interact with different components.
-📷 Screenshot
-(Add a screenshot of the Gradio UI here!)
 
-📌 To-Do
+
+## 📌 To-Do
 Add more UI components (file uploads, dropdowns, etc.).
 Enhance styling and functionality.
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork and improve this project! PRs are welcome.
